@@ -1,7 +1,0 @@
-path: dataset/train
-
-train: deblur
-val: deblur
-
-names:
-  0: object
